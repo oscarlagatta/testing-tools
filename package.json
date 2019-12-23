@@ -1,0 +1,16 @@
+{
+  "name": "testing-tools",
+  "version": "1.0.0",
+  "description": "JavaScript Testing Tools",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Oscar Lagatta",
+  "license": "ISC",
+  "dependencies": {
+    "@babel/cli": "^7.7.7",
+    "@babel/core": "^7.7.7",
+    "@babel/preset-env": "^7.7.7"
+  }
+}
